@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4c5a53e7b1dc234fa8ba57688697dbe, type: 3}
+  m_Name: Audio Settings Bird
+  m_EditorClassIdentifier: 
+  audioSetsList:
+  - action: Flying
+    audioClip: {fileID: 8300000, guid: 0eec39e126abb234090777c7689c7744, type: 3}
+  - action: Fall
+    audioClip: {fileID: 8300000, guid: 6db687c4e6e06204293c2d2f3f232585, type: 3}
+  - action: Falling
+    audioClip: {fileID: 8300000, guid: 6db687c4e6e06204293c2d2f3f232585, type: 3}
+  - action: Attack
+    audioClip: {fileID: 8300000, guid: 27abe88eac78eca4084c33c13ec8d6e2, type: 3}

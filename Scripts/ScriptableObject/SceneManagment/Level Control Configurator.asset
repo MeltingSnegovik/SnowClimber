@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfcf1079437fab54e9e1282fcfd1867a, type: 3}
+  m_Name: Level Control Configurator
+  m_EditorClassIdentifier: 
+  sceneSets:
+  - isLevelScene: 0
+    sceneName: Main Menu
+    sceneReference: {fileID: 11400000, guid: db55ffff48008614a982d5f08419952e, type: 2}
+  - isLevelScene: 1
+    sceneName: Level 1
+    sceneReference: {fileID: 11400000, guid: e0d4056d6a6e9c447b82ba7f465752d5, type: 2}
+  - isLevelScene: 1
+    sceneName: Level 2
+    sceneReference: {fileID: 11400000, guid: 0aae7a268e9a2064ea6b8ecab4ec5035, type: 2}
+  - isLevelScene: 1
+    sceneName: Level 3
+    sceneReference: {fileID: 11400000, guid: fb2fa20e7215d5d4bb3c2c2dffb4eace, type: 2}
+  - isLevelScene: 1
+    sceneName: Level 4
+    sceneReference: {fileID: 11400000, guid: 997edc6cbe4cb8946ad61cefc29202d9, type: 2}
+  - isLevelScene: 1
+    sceneName: Level 5
+    sceneReference: {fileID: 11400000, guid: 07be85d1ee96a7044bf6796150c49124, type: 2}
+  - isLevelScene: 1
+    sceneName: Level 6
+    sceneReference: {fileID: 11400000, guid: 011274b771f3b194eb4534f6b9fb6170, type: 2}
+  - isLevelScene: 1
+    sceneName: Level 7
+    sceneReference: {fileID: 11400000, guid: 4ecec5fb2cfae0345ad2416836f87543, type: 2}
+  - isLevelScene: 1
+    sceneName: Level 8
+    sceneReference: {fileID: 11400000, guid: 63c4b328d2c50e448b58a90563dee404, type: 2}
+  - isLevelScene: 1
+    sceneName: Level 9
+    sceneReference: {fileID: 11400000, guid: b81ef8ea93b165e45bd89739bdaac06c, type: 2}
+  - isLevelScene: 1
+    sceneName: Level 10
+    sceneReference: {fileID: 11400000, guid: dcd7adef8705b3d43b7ba25c3e27fde0, type: 2}

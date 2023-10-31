@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4c5a53e7b1dc234fa8ba57688697dbe, type: 3}
+  m_Name: Audio Settings Player
+  m_EditorClassIdentifier: 
+  audioSetsList:
+  - action: Move
+    audioClip: {fileID: 8300000, guid: dd3a9bf23f1906c41820c9956b72b01f, type: 3}
+  - action: Attack
+    audioClip: {fileID: 8300000, guid: 9c81708937d7b400f94950a59f4ca6bb, type: 3}
+  - action: Jump
+    audioClip: {fileID: 8300000, guid: 2c5292ba5cf254919a6b9e2b18e04f49, type: 3}
+  - action: Fall
+    audioClip: {fileID: 8300000, guid: 29bde6326b4c34ad8a12da475f79b50a, type: 3}
+  - action: Empty
+    audioClip: {fileID: 8300000, guid: 0eec39e126abb234090777c7689c7744, type: 3}
+  - action: MoveCloud
+    audioClip: {fileID: 8300000, guid: 98e005e2d5100484b88927d0803cb395, type: 3}

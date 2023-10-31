@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a81556ff08305244c978df9a9f54937f, type: 3}
+  m_Name: Score Info Configurator
+  m_EditorClassIdentifier: 
+  nullSpriteScore: {fileID: 21300000, guid: b0ec708366be6334dba403ad4076ec35, type: 3}
+  nullScore: 0
+  listScoreSet:
+  - scoreName: Seal
+    scoreInfo: {fileID: 11400000, guid: aba26aad2d45c1d4985ca1a5e3584567, type: 2}
+  - scoreName: Bird
+    scoreInfo: {fileID: 11400000, guid: 6d39d9d19ad35a54d9e980fb95edc4a4, type: 2}
+  - scoreName: Time
+    scoreInfo: {fileID: 11400000, guid: 93b8cebd1e26b444184a650bbc03c06f, type: 2}
+  - scoreName: Block
+    scoreInfo: {fileID: 11400000, guid: 1325a46f65d95c44881c27218ecc3a2a, type: 2}
+  - scoreName: Finish
+    scoreInfo: {fileID: 11400000, guid: c37784fffeefccd439939f156a78140b, type: 2}
+  - scoreName: Icicle
+    scoreInfo: {fileID: 11400000, guid: ff22da5c56623e0419565d6f18b733ca, type: 2}
+  - scoreName: Cabbage
+    scoreInfo: {fileID: 11400000, guid: 6566d96b317ee004f874edeffccc9852, type: 2}
+  - scoreName: Corn
+    scoreInfo: {fileID: 11400000, guid: 344971c105394c946aa35e6d2dd43407, type: 2}
+  - scoreName: Cucumber
+    scoreInfo: {fileID: 11400000, guid: 23a787bd8115143438a9e2ba6af6b013, type: 2}
+  - scoreName: Eggplant
+    scoreInfo: {fileID: 11400000, guid: 377a14ae22c737b49beb1e7028870c5b, type: 2}
+  - scoreName: Turnip
+    scoreInfo: {fileID: 11400000, guid: 1b0f3f331a9d2954c93a6e455b11ed30, type: 2}
+  - scoreName: Final
+    scoreInfo: {fileID: 11400000, guid: 37f3b0e90e37c194581a9ee5316adca8, type: 2}
+  - scoreName: Carrot
+    scoreInfo: {fileID: 11400000, guid: 9c51b3af918e34c49bef6835209e07a7, type: 2}
